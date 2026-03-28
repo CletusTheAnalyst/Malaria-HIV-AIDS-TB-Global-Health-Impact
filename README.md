@@ -17,17 +17,8 @@ Support dashboard development (Power BI / Tableau)
 Generate insights for policy and intervention strategies
 
 Project Structure
-├── data/
-│   └── raw datasets 
-├── queries/
-│   ├── data_cleaning.sql
-│   ├── aggregation_queries.sql
-│   ├── kpi_calculations.sql
-│   ├── trend_analysis.sql
-│   └── regional_analysis.sql
-├── outputs/
-│   └── query results / exported table to github and Powerbi for Visualization
-└── README.md
+data > raw datasets > queries (data_cleaning, sql aggregation_queries.sql, kpi_calculations.sql, trend_analysis.sql, regional_analysis.sql, outputs/
+query results / exported table to github and Powerbi for Visualization).
 
 Key SQL Analyses
 1. Data Cleaning & Preparation
